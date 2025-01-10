@@ -47,7 +47,7 @@ nav{
     background-color:#006150;
     color: #ffffff;
     font-size: 20px;
-    padding: 10px;
+    padding: 20px;
     border-radius: 5px;
     border: none;
 }
@@ -134,7 +134,49 @@ nav{
 .s-paragraph{
     color: #0e0e0e;
     width: 100%;
+    margin-bottom: 20px;
+    justify-content: center;
 }
 .recent{
     width: 1000px;
 }
+.donate{
+    margin: 50px auto;
+}
+.taka{
+    display: flex;
+    justify-content: space-around;
+}
+.t{
+    color: #0e0e0e;
+    padding: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    border: .1px solid rgb(0,0,0,.1);
+    
+}
+  .t:hover{
+    background-color: aquamarine;
+    
+    transform: scale(1.1);
+  }
+  .oa{
+    width: 100%;
+    border: .1px solid rgb(0,0,0,.1);
+    color: rgb(0,0,0,.5);
+    padding: 30px;
+    text-align: center;
+    margin: 20px;
+    font-size: 24px;
+  } 
+  .ob{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+
+  }
+  .subscription{
+    margin: 30px 30px;
+    padding: 80px 100px;
+    background-color: #c6e4d6;
+  }
