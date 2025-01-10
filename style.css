@@ -180,3 +180,31 @@ nav{
     padding: 80px 100px;
     background-color: #c6e4d6;
   }
+  .form{
+    padding: 20px;
+    width: 70%;
+    border-radius: 5px 0px 0px 5px;
+    background-color: #ffffff;
+    border: none;
+  }
+  .btn{
+    width: 30%;
+    border-radius: 0px 5px 5px 0px;
+    background-color: #006150;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+  }
+  form {
+    display: flex;
+ 
+  }
+  footer{
+    margin: 50px auto;
+  }
+  .logo{
+    margin: 30px auto;
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+  }
