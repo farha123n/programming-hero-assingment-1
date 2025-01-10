@@ -208,3 +208,7 @@ nav{
     display: flex;
     gap: 20px;
   }
+  button:hover{
+    background-color: aquamarine;
+    color: blueviolet;
+  }
