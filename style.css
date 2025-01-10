@@ -95,6 +95,15 @@ nav{
     padding:10px;
     border-radius: 10px;
 }
+.dialog{
+    background-color: #ffffff;
+    background-image: url("assets/quote-bg.png");
+    background-position: top left;
+    border-radius: 10px;
+    border: none;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
 .paragraph{
     width: 100%;
     color: #0e0e0e;
