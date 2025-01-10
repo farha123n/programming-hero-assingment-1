@@ -115,13 +115,26 @@ nav{
     padding-top: 20px;
 }
 .satelite{
-    margin: 40px 10px;
+    margin: 40px 0px;
     display: flex;
-    gap: 25px;
+    gap: 60px;
 }
 .img{
-    width: 40%;
-    margin: 0;
-    padding: 0;
+   width: 40%;
+  
     border-radius: 20px;
+    padding: 10;
+    margin: 0;
+}
+.text{
+    width: 100%;
+    padding: 10;
+    margin: 0;
+}
+.s-paragraph{
+    color: #0e0e0e;
+    width: 100%;
+}
+.recent{
+    width: 1000px;
 }
